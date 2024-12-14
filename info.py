@@ -42,8 +42,8 @@ SHORTENER_API = environ.get("SHORTENER_API", "2e423220cb149eb13f953b2149fecbeba5
 SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", 'mypowerlinks.org')
 SHORTENER_API2 = environ.get("SHORTENER_API2", "2e423220cb149eb13f953b2149fecbeba5d02bbb")
 SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", 'mypowerlinks.org')
-SHORTENER_API3 = environ.get("SHORTENER_API3", "7SoRin98O4Z8veQDs4MOmlz6Jge2")
-SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", 'api.shareus.io')
+SHORTENER_API3 = environ.get("SHORTENER_API3", "2e423220cb149eb13f953b2149fecbeba5d02bbb")
+SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", 'mypowerlinks.org')
 TWO_VERIFY_GAP = int(environ.get('TWO_VERIFY_GAP', "60"))
 THREE_VERIFY_GAP = int(environ.get('THREE_VERIFY_GAP', "60"))
 
